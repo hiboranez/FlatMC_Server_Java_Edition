@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlatMCServer_v0.4.0">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlatMCServer_v0_4_0</output-path>
+    <root id="archive" name="FlatMCServer_v0.4.0.jar">
+      <element id="module-output" name="FlatMCServer" />
+    </root>
+  </artifact>
+</component>
